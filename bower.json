@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-aligner",
+  "homepage": "https://github.com/leopitt/bootstrap-aligner",
+  "authors": [
+    "Leo Pitt <leopitt@function-design.co.uk>"
+  ],
+  "description": "Micro sass component to aid in vertically and horizontally aligning content in a backwards-compatible manner.",
+  "main": "",
+  "keywords": [
+    "bootstrap",
+    "sass"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
