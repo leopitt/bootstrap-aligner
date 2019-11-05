@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-aligner",
+  "version": "1.0.3",
+  "description": "Micro sass component to aid in vertically and horizontally aligning content in a backwards-compatible manner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopitt/bootstrap-aligner.git"
+  },
+  "author": "Leo Pitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leopitt/bootstrap-aligner/issues"
+  },
+  "homepage": "https://github.com/leopitt/bootstrap-aligner#readme"
+}
